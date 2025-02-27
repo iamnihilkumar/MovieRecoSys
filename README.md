@@ -1,1 +1,1 @@
-# MovieRecoSys
+# movie_recommender_system
